@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "pico-sdk/src/rp2_common/pico_platform_compiler",
+		"source" : "F:/Dev/tools/pico-sdk-master/src/rp2_common/pico_platform_compiler"
+	}
+}
